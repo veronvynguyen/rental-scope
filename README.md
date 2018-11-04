@@ -1,3 +1,9 @@
+# **Rental Scope**
+Rental Scope is an application that allows former and current tenants rate their properties. 
+
+This app is built on top of netlify-faunadb-todomvc.        
+
+
 # Netlify/FaunaDB TodoMVC Single Page Application
 
 Have you ever wanted the simplest possible backend for your single page applications?
